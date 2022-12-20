@@ -40,10 +40,9 @@ else
     </table>
 }
 @code {
-    private Photo[]? photos;
-
     protected override async Task OnInitializedAsync()
     {
-        photos = await Http.GetFromJsonAsync<Photo[]>("https://jsonplaceholder.typicode.com/photos");
+        photos = await Http.GetFromJsonAsync<List<Photo>>("https://jsonplaceholder.typicode.com/photos");
     }
+    protected List<Photo> photos = new();
 }

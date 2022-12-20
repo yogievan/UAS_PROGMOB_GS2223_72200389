@@ -1,5 +1,3 @@
-using System.ComponentModel.DataAnnotations;
-
 public class Comment
     {
         public int postId { get; set; }

@@ -46,10 +46,9 @@ else
     </table>
 }
 @code {
-    private User[]? users;
-
     protected override async Task OnInitializedAsync()
     {
-        users = await Http.GetFromJsonAsync<User[]>("https://jsonplaceholder.typicode.com/users");
+        users = await Http.GetFromJsonAsync<List<User>>("https://jsonplaceholder.typicode.com/users");
     }
+    protected List<User> users = new();
 }

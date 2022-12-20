@@ -1,5 +1,3 @@
-using System.ComponentModel.DataAnnotations;
-
 public class Photo
     {
         public int albumId { get; set; }

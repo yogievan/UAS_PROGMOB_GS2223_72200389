@@ -41,10 +41,9 @@ else
     </table>
 }
 @code {
-    private Comment[]? comments;
-
     protected override async Task OnInitializedAsync()
         {
-            comments = await Http.GetFromJsonAsync<Comment[]>("https://jsonplaceholder.typicode.com/comments");
+            comments = await Http.GetFromJsonAsync<List<Comment>>("https://jsonplaceholder.typicode.com/comments");
         }
+    protected List<Comment> comments = new();
 }
