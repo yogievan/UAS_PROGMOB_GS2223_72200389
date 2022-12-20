@@ -8,6 +8,270 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -1213278389,
+        "Kind": "Components.Component",
+        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.Index",
+        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1856966259,
+        "Kind": "Components.Component",
+        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.Index",
+        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UAS_PROGMOB_GS2223_72200389.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1344181076,
+        "Kind": "Components.Component",
+        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.FetchData",
+        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -1808034133,
+        "Kind": "Components.Component",
+        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.FetchData",
+        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UAS_PROGMOB_GS2223_72200389.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1049453256,
+        "Kind": "Components.Component",
+        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.Counter",
+        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -2002578162,
+        "Kind": "Components.Component",
+        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.Counter",
+        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UAS_PROGMOB_GS2223_72200389.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 637867481,
+        "Kind": "Components.Component",
+        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.PhotoList",
+        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PhotoList"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.PhotoList"
+        }
+      },
+      {
+        "HashCode": 1306089556,
+        "Kind": "Components.Component",
+        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.PhotoList",
+        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UAS_PROGMOB_GS2223_72200389.Pages.PhotoList"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.PhotoList",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -572865401,
+        "Kind": "Components.Component",
+        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.UserList",
+        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UserList"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.UserList"
+        }
+      },
+      {
+        "HashCode": 655162603,
+        "Kind": "Components.Component",
+        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.UserList",
+        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UAS_PROGMOB_GS2223_72200389.Pages.UserList"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.UserList",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -281823790,
+        "Kind": "Components.Component",
+        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.CommentList",
+        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CommentList"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.CommentList"
+        }
+      },
+      {
+        "HashCode": 544301828,
+        "Kind": "Components.Component",
+        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.CommentList",
+        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UAS_PROGMOB_GS2223_72200389.Pages.CommentList"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.CommentList",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1533017394,
+        "Kind": "Components.Component",
+        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.PostsList",
+        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PostsList"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.PostsList"
+        }
+      },
+      {
+        "HashCode": -733405942,
+        "Kind": "Components.Component",
+        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.PostsList",
+        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UAS_PROGMOB_GS2223_72200389.Pages.PostsList"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.PostsList",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -117718920,
+        "Kind": "Components.Component",
+        "Name": "UAS_PROGMOB_GS2223_72200389.Shared.NavMenu",
+        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 874939386,
+        "Kind": "Components.Component",
+        "Name": "UAS_PROGMOB_GS2223_72200389.Shared.NavMenu",
+        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UAS_PROGMOB_GS2223_72200389.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1770193961,
         "Kind": "Components.Component",
         "Name": "UAS_PROGMOB_GS2223_72200389.Shared.SurveyPrompt",
@@ -153,270 +417,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -117718920,
-        "Kind": "Components.Component",
-        "Name": "UAS_PROGMOB_GS2223_72200389.Shared.NavMenu",
-        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 874939386,
-        "Kind": "Components.Component",
-        "Name": "UAS_PROGMOB_GS2223_72200389.Shared.NavMenu",
-        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UAS_PROGMOB_GS2223_72200389.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1213278389,
-        "Kind": "Components.Component",
-        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.Index",
-        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1856966259,
-        "Kind": "Components.Component",
-        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.Index",
-        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UAS_PROGMOB_GS2223_72200389.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1344181076,
-        "Kind": "Components.Component",
-        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.FetchData",
-        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -1808034133,
-        "Kind": "Components.Component",
-        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.FetchData",
-        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UAS_PROGMOB_GS2223_72200389.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1049453256,
-        "Kind": "Components.Component",
-        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.Counter",
-        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -2002578162,
-        "Kind": "Components.Component",
-        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.Counter",
-        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UAS_PROGMOB_GS2223_72200389.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 2069614000,
-        "Kind": "Components.Component",
-        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.Posts",
-        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Posts"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.Posts"
-        }
-      },
-      {
-        "HashCode": 1738134583,
-        "Kind": "Components.Component",
-        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.Posts",
-        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UAS_PROGMOB_GS2223_72200389.Pages.Posts"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.Posts",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 744728,
-        "Kind": "Components.Component",
-        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.Comment",
-        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Comment"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.Comment"
-        }
-      },
-      {
-        "HashCode": -188971362,
-        "Kind": "Components.Component",
-        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.Comment",
-        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UAS_PROGMOB_GS2223_72200389.Pages.Comment"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.Comment",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1595553274,
-        "Kind": "Components.Component",
-        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.Photo",
-        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Photo"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.Photo"
-        }
-      },
-      {
-        "HashCode": 1394309449,
-        "Kind": "Components.Component",
-        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.Photo",
-        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UAS_PROGMOB_GS2223_72200389.Pages.Photo"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.Photo",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1699131458,
-        "Kind": "Components.Component",
-        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.User",
-        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "User"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.User"
-        }
-      },
-      {
-        "HashCode": 1652870569,
-        "Kind": "Components.Component",
-        "Name": "UAS_PROGMOB_GS2223_72200389.Pages.User",
-        "AssemblyName": "UAS_PROGMOB_GS2223_72200389",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UAS_PROGMOB_GS2223_72200389.Pages.User"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UAS_PROGMOB_GS2223_72200389.Pages.User",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13776,11 +13776,6 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\applications\\Frontend\\UAS_PROGMOB_GS2223_72200389\\Pages\\Comment.razor",
-      "TargetPath": "Pages\\Comment.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "c:\\applications\\Frontend\\UAS_PROGMOB_GS2223_72200389\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
@@ -13791,8 +13786,8 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\applications\\Frontend\\UAS_PROGMOB_GS2223_72200389\\Pages\\User.razor",
-      "TargetPath": "Pages\\User.razor",
+      "FilePath": "c:\\applications\\Frontend\\UAS_PROGMOB_GS2223_72200389\\Pages\\PostsList.razor",
+      "TargetPath": "Pages\\PostsList.razor",
       "FileKind": "component"
     },
     {
@@ -13811,8 +13806,8 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\applications\\Frontend\\UAS_PROGMOB_GS2223_72200389\\Pages\\Posts.razor",
-      "TargetPath": "Pages\\Posts.razor",
+      "FilePath": "c:\\applications\\Frontend\\UAS_PROGMOB_GS2223_72200389\\Pages\\CommentList.razor",
+      "TargetPath": "Pages\\CommentList.razor",
       "FileKind": "component"
     },
     {
@@ -13821,13 +13816,18 @@
       "FileKind": "componentImport"
     },
     {
+      "FilePath": "c:\\applications\\Frontend\\UAS_PROGMOB_GS2223_72200389\\Pages\\UserList.razor",
+      "TargetPath": "Pages\\UserList.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\applications\\Frontend\\UAS_PROGMOB_GS2223_72200389\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\applications\\Frontend\\UAS_PROGMOB_GS2223_72200389\\Pages\\Photo.razor",
-      "TargetPath": "Pages\\Photo.razor",
+      "FilePath": "c:\\applications\\Frontend\\UAS_PROGMOB_GS2223_72200389\\Pages\\PhotoList.razor",
+      "TargetPath": "Pages\\PhotoList.razor",
       "FileKind": "component"
     }
   ],

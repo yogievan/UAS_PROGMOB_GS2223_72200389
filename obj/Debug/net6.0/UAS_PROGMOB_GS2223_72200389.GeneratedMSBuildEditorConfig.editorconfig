@@ -22,8 +22,8 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/applications/Frontend/UAS_PROGMOB_GS2223_72200389/Pages/Comment.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tbWVudC5yYXpvcg==
+[C:/applications/Frontend/UAS_PROGMOB_GS2223_72200389/Pages/CommentList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tbWVudExpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/applications/Frontend/UAS_PROGMOB_GS2223_72200389/Pages/Counter.razor]
@@ -38,16 +38,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/applications/Frontend/UAS_PROGMOB_GS2223_72200389/Pages/Photo.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGhvdG8ucmF6b3I=
+[C:/applications/Frontend/UAS_PROGMOB_GS2223_72200389/Pages/PhotoList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGhvdG9MaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/applications/Frontend/UAS_PROGMOB_GS2223_72200389/Pages/Posts.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zdHMucmF6b3I=
+[C:/applications/Frontend/UAS_PROGMOB_GS2223_72200389/Pages/PostsList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zdHNMaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/applications/Frontend/UAS_PROGMOB_GS2223_72200389/Pages/User.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlci5yYXpvcg==
+[C:/applications/Frontend/UAS_PROGMOB_GS2223_72200389/Pages/UserList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlckxpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/applications/Frontend/UAS_PROGMOB_GS2223_72200389/Shared/SurveyPrompt.razor]
