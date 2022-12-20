@@ -1,0 +1,50 @@
+@page "/comments"
+@using System.Net.Http
+@using System.Net.Http.Json
+@using System.Threading.Tasks
+@inject HttpClient Http
+
+<PageTitle>Comments</PageTitle>
+
+<h1>Table Comments</h1>
+
+<p></p>
+
+@if (comments == null)
+{
+    <p><em>Loading...</em></p>
+} 
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>POST ID</th>
+                <th>ID</th>
+                <th>NAME</th>
+                <th>EMAIL</th>
+                <th>BODY</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var ct in comments)
+            {
+                <tr>
+                    <td> @ct.postId </td>
+                    <td> @ct.id </td>
+                    <td> @ct.name </td>
+                    <td> @ct.email </td>
+                    <td> @ct.body </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@code {
+    private Comment[]? comments;
+
+    protected override async Task OnInitializedAsync()
+        {
+            comments = await Http.GetFromJsonAsync<Comment[]>("https://jsonplaceholder.typicode.com/comments");
+        }
+}

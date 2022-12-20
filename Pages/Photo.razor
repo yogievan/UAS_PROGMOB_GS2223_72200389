@@ -1,0 +1,49 @@
+@page "/photos"
+@using System.Net.Http
+@using System.Net.Http.Json
+@using System.Threading.Tasks
+@inject HttpClient Http
+
+<PageTitle>Photos</PageTitle>
+
+<h1>Table Photos</h1>
+
+<p></p>
+@if (photos == null)
+{
+    <p><em>Loading...</em></p>
+} 
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ALBUM ID</th>
+                <th>ID</th>
+                <th>TITLE</th>
+                <th>URL</th>
+                <th>THUMBNAIL URL</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var pt in photos)
+            {
+                <tr>
+                    <td>@pt.albumId</td>
+                    <td>@pt.id</td>
+                    <td>@pt.title</td>
+                    <td>@pt.url</td>
+                    <td>@pt.thumbnailUrl</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@code {
+    private Photo[]? photos;
+
+    protected override async Task OnInitializedAsync()
+    {
+        photos = await Http.GetFromJsonAsync<Photo[]>("https://jsonplaceholder.typicode.com/photos");
+    }
+}

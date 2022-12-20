@@ -1,0 +1,55 @@
+@page "/users"
+@using System.Net.Http
+@using System.Net.Http.Json
+@using System.Threading.Tasks
+@inject HttpClient Http
+
+<PageTitle>User</PageTitle>
+
+<h1>Table User</h1>
+
+<p></p>
+@if (users == null)
+{
+    <p><em>Loading...</em></p>
+} 
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>NAME</th>
+                <th>USERNAME</th>
+                <th>EMAIL</th>
+                <th>ADDRESS</th>
+                <th>PHONE</th>
+                <th>WEBSITE</th>
+                <th>COMPANY</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var uu in users)
+            {
+                <tr>
+                    <td>@uu.id</td>
+                    <td>@uu.name</td>
+                    <td>@uu.username</td>
+                    <td>@uu.email</td>
+                    <td>@uu.address</td>
+                    <td>@uu.phone</td>
+                    <td>@uu.website</td>
+                    <td>@uu.company</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@code {
+    private User[]? users;
+
+    protected override async Task OnInitializedAsync()
+    {
+        users = await Http.GetFromJsonAsync<User[]>("https://jsonplaceholder.typicode.com/users");
+    }
+}
